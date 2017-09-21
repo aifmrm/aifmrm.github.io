@@ -1,0 +1,30 @@
+baseurl = "https://aifmrm.github.io/"
+copyright = "All rights reserved"
+paginate = 5
+pluralizelisttitles = false
+theme = "casper"
+title = ""
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+weight = -120
+
+
+[params]
+author = "Allan Davids"
+authorlocation = "Cape Town, South Africa"
+authorwebsite = "http://allandav.github.io"
+authorbio = ""
+cover = "images/aifmrm_final.png"
+description = ""
+#githubName = "vjeantet"
+#googleAnalyticsUserID = "UA-79101-12"
+hideHUGOSupport = false
+logo = "images/aifmrm_logo.png"
+#twitterName = "vjeantet"
+[permalinks]
+post = "/:slug/"
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
