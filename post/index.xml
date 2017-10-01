@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on </title>
+    <link>https://aifmrm.github.io/post/</link>
+    <description>Recent content in Post on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aifmrm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>United Nations Global Compact Challenge</title>
+      <link>https://aifmrm.github.io/maryjane_un2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aifmrm.github.io/maryjane_un2017/</guid>
+      <description>I came across the Breakthrough Innovation Challenge competition via an email distributed by the career services. At the time, I was waiting for registration and first semester to begin. I convinced my friends Bridget and Wadzanai – who both hold Masters in Chemical Engineering from UCT - to form a team and work to solve one of the eight challenges. They both agreed and we spent a week going through all eight challenges and in the end, each one of us had to motivate which challenge we should solve.</description>
+    </item>
+    
+  </channel>
+</rss>
